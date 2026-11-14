@@ -1066,6 +1066,25 @@ footer p.sub { color: var(--text-dim); margin-top: 0.8rem; }
 }
 .back-link:hover { gap: 0.8rem; }
 
+/* Portfolio categories while their artwork is being refreshed. */
+.portfolio-empty-page .page-header { padding-bottom: 2rem; }
+.empty-work {
+  min-height: 48vh;
+  padding: 1rem 6% 6rem;
+  align-items: center;
+}
+.empty-work-panel {
+  width: min(100%, 760px);
+  padding: clamp(2rem, 6vw, 4rem);
+  border: 1px solid var(--border);
+  border-radius: 24px;
+  background: var(--surface-card);
+  box-shadow: 0 20px 65px rgba(0, 0, 0, .12);
+}
+.empty-work-panel h2 { font-size: clamp(1.8rem, 4vw, 3rem); line-height: 1.15; }
+.empty-work-panel > p:not(.eyebrow) { margin-top: 1rem; color: var(--text-dim); }
+.empty-work-panel .cta-btn { margin-top: 2rem; }
+
 /* ---------- project grid (sub-pages) ---------- */
 .project-grid {
   display: grid;
