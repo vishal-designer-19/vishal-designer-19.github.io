@@ -97,10 +97,9 @@ const mascotPlayground = document.getElementById('mascotPlayground');
 const mascotMessage = document.getElementById('mascotMessage');
 if (mascotButton && mascotPlayButton && mascotPlayground && mascotMessage) {
   const moves = [
-    { name: 'wave', message: 'Hey! Welcome to my creative corner 👋' },
-    { name: 'jump', message: 'Big ideas deserve a little jump!' },
-    { name: 'paint', message: 'A splash of colour makes everything better ✦' },
-    { name: 'spin', message: 'New angle, new idea. Let’s create!' }
+    { name: 'ninja-flip', message: 'Ninja flip! Catch me if you can.' },
+    { name: 'ninja-dash', message: 'Shadow dash! Too fast to spot.' },
+    { name: 'ninja-slash', message: 'Lightning strike! Ninja mode complete.' }
   ];
   let moveIndex = 0;
   let resetTimer;
@@ -112,7 +111,7 @@ if (mascotButton && mascotPlayButton && mascotPlayground && mascotMessage) {
     void mascotPlayground.offsetWidth;
     mascotPlayground.dataset.move = move.name;
     mascotMessage.textContent = move.message;
-    resetTimer = setTimeout(() => mascotPlayground.removeAttribute('data-move'), 1100);
+    resetTimer = setTimeout(() => mascotPlayground.removeAttribute('data-move'), 1350);
   };
   mascotButton.addEventListener('click', playMascotMove);
   mascotPlayButton.addEventListener('click', playMascotMove);
