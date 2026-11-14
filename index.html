@@ -32,6 +32,11 @@
 </nav>
 
 <section id="home">
+  <a class="availability-badge" href="#connect" aria-label="Open to freelance projects and full-time graphic design roles. Contact Vishal.">
+    <span class="availability-light" aria-hidden="true"></span>
+    <span class="availability-copy"><strong>OPEN TO WORK</strong><small>Freelance &amp; full-time roles</small></span>
+    <span class="availability-arrow" aria-hidden="true">↗</span>
+  </a>
   <svg class="blob-decor" style="top:-60px;right:-80px;width:420px;height:420px;" viewBox="0 0 400 400"><path d="M40,120 C10,190 40,270 120,300 C200,330 280,280 300,200 C320,120 260,40 180,30 C110,22 70,60 40,120 Z" fill="var(--green)" opacity="0.12"/></svg>
   <svg class="blob-decor" style="bottom:-40px;left:10%;width:260px;height:260px;" viewBox="0 0 300 300"><path d="M30,150 C10,90 70,30 140,40 C210,50 250,110 230,170 C210,230 140,260 90,230 C50,208 50,200 30,150 Z" fill="var(--teal)" opacity="0.12"/></svg>
   <div class="hero-grid fade-up">
@@ -49,11 +54,37 @@
       <p class="hero-sub">I have a strong passion for visual storytelling and brand design, and I thrive on challenges that push the boundaries of my creativity — known for a bold creative flair and impactful, on-brand results.</p>
       <a href="#portfolio" class="cta-btn">Explore my work →</a>
     </div>
-    <div class="hero-photo-wrap">
-      <div class="hero-glow"></div>
-      <div class="hero-photo">
-        <img src="headshot.png" alt="Portrait of Vishal Kumar">
+    <div class="hero-visual">
+      <div class="hero-photo-wrap">
+        <div class="hero-glow"></div>
+        <div class="hero-photo">
+          <img src="headshot.png" alt="Portrait of Vishal Kumar">
+        </div>
       </div>
+      <aside class="festival-card" id="festivalCard" aria-label="Today's greeting">
+        <img class="festival-art" id="festivalArtwork" alt="" width="96" height="96">
+        <div class="festival-copy">
+          <p class="festival-eyebrow" id="festivalDate">Today</p>
+          <h2 id="festivalTitle">Have a lovely day!</h2>
+          <p class="festival-message" id="festivalMessage">Good to see you here. Make today a little brighter.</p>
+          <div class="festival-more" id="festivalMore"></div>
+          <a class="festival-source" id="festivalSource" href="https://eternalsanskriti.com/en/developers" target="_blank" rel="noopener noreferrer" hidden>Delhi/IST dates · The Eternal ↗</a>
+        </div>
+      </aside>
+    </div>
+  </div>
+  <div class="mascot-playground fade-up" id="mascotPlayground">
+    <button class="mascot-character" id="mascotButton" type="button" aria-label="Play with Mini Vishal">
+      <img src="assets/mascot-vishal.png" alt="" width="640" height="960" decoding="async">
+      <span class="mascot-spark mascot-spark-one" aria-hidden="true">✦</span>
+      <span class="mascot-spark mascot-spark-two" aria-hidden="true">✧</span>
+      <span class="mascot-spark mascot-spark-three" aria-hidden="true">✦</span>
+    </button>
+    <div class="mascot-copy">
+      <p class="eyebrow">A little creative company</p>
+      <h2>Meet Mini Vishal <span aria-hidden="true">✦</span></h2>
+      <p id="mascotMessage" aria-live="polite">Tap me! I have a few tricks up my sleeve.</p>
+      <button class="mascot-hint" id="mascotPlayButton" type="button">Tap to play ↗</button>
     </div>
   </div>
 </section>
@@ -94,31 +125,37 @@
     <span class="handle br"></span>
     <div class="toc-grid">
       <a href="logo-folio.html" class="toc-card">
+        <span class="toc-neon" aria-hidden="true"><svg viewBox="0 0 64 64" fill="none"><path d="M32 6 38 22 54 16 48 32 58 42 40 42 32 58 24 42 6 42 16 32 10 16 26 22Z"/><circle cx="32" cy="32" r="7"/></svg></span>
         <span class="toc-number">01</span>
         <h3 class="toc-title">Logo Folio</h3>
         <span class="toc-script">logos & marks</span>
       </a>
       <a href="branding.html" class="toc-card">
+        <span class="toc-neon" aria-hidden="true"><svg viewBox="0 0 64 64" fill="none"><circle cx="32" cy="32" r="16"/><path d="M32 7v9M32 48v9M7 32h9M48 32h9M21 32l7 7 15-16"/></svg></span>
         <span class="toc-number">02</span>
         <h3 class="toc-title">Branding</h3>
         <span class="toc-script">identity systems</span>
       </a>
       <a href="social-media.html" class="toc-card">
+        <span class="toc-neon" aria-hidden="true"><svg viewBox="0 0 64 64" fill="none"><path d="M10 16h44v29H29L17 55V45h-7V16Z"/><path d="M25 29c0-4 5-5 7-1 2-4 7-3 7 1 0 4-7 9-7 9s-7-5-7-9Z"/><path d="M47 7v6M44 10h6"/></svg></span>
         <span class="toc-number">03</span>
         <h3 class="toc-title">Social Media Posts</h3>
         <span class="toc-script">digital content</span>
       </a>
       <a href="packaging.html" class="toc-card">
+        <span class="toc-neon" aria-hidden="true"><svg viewBox="0 0 64 64" fill="none"><path d="m32 8 23 12v27L32 59 9 47V20L32 8Z"/><path d="M9 20 32 33l23-13M32 33v26M21 14l23 13M20 27v10"/></svg></span>
         <span class="toc-number">04</span>
         <h3 class="toc-title">Packaging Design</h3>
         <span class="toc-script">product packaging</span>
       </a>
       <a href="print-media.html" class="toc-card">
+        <span class="toc-neon" aria-hidden="true"><svg viewBox="0 0 64 64" fill="none"><rect x="15" y="7" width="34" height="50" rx="2"/><circle cx="32" cy="23" r="7"/><path d="M23 39h18M23 46h13M21 3h22"/></svg></span>
         <span class="toc-number">05</span>
         <h3 class="toc-title">Print Media Design</h3>
         <span class="toc-script">brochures & print</span>
       </a>
       <a href="ui-ux.html" class="toc-card">
+        <span class="toc-neon" aria-hidden="true"><svg viewBox="0 0 64 64" fill="none"><rect x="7" y="10" width="50" height="37" rx="4"/><path d="M7 20h50M26 55h12M32 47v8M22 28l16 8-7 2-3 7-6-17Z"/><circle cx="15" cy="15" r="1"/><circle cx="21" cy="15" r="1"/></svg></span>
         <span class="toc-number">06</span>
         <h3 class="toc-title">UI/UX Design</h3>
         <span class="toc-script">app & web design</span>
@@ -191,8 +228,57 @@
       <div class="node">03</div>
       <div class="timeline-content">
         <h3>Graphic Designer, Intern</h3>
-        <p class="role-meta">Advertising & Marketing · 2022, 6 months</p>
+        <p class="role-meta">Vidyut Advertising &amp; Marketing · 2022, 6 months</p>
         <p class="desc">Supported the design team on posters, banners, and social creatives, and built a practical foundation in branding and layout.</p>
+      </div>
+    </div>
+  </div>
+  <div class="employer-ticker fade-up" aria-labelledby="employer-ticker-title">
+    <div class="employer-ticker-heading">
+      <div>
+        <p class="eyebrow">Places I've worked</p>
+        <h3 id="employer-ticker-title">The journey so far</h3>
+      </div>
+      <span class="ticker-live"><span aria-hidden="true"></span> On the timeline</span>
+    </div>
+    <div class="employer-ticker-window">
+      <div class="employer-ticker-track">
+        <div class="employer-ticker-set">
+          <div class="employer-logo-card">
+            <div class="employer-logo-media employer-logo-media--vidyut"><img src="assets/company-logos/vidyut.png" alt="" width="1792" height="1024" loading="lazy" decoding="async"></div>
+            <span>Vidyut Advertising &amp; Marketing</span>
+          </div>
+          <div class="employer-logo-card">
+            <div class="employer-logo-media employer-logo-media--ss"><img src="assets/company-logos/ss-group.png" alt="" width="500" height="500" loading="lazy" decoding="async"></div>
+            <span>SS Group of Company</span>
+          </div>
+          <div class="employer-logo-card">
+            <div class="employer-logo-media employer-logo-media--spinoff"><img src="assets/company-logos/spinoff-technopark.png" alt="" width="1341" height="462" loading="lazy" decoding="async"></div>
+            <span>Spinoff Technopark</span>
+          </div>
+          <div class="employer-logo-card">
+            <div class="employer-logo-media employer-logo-media--finike"><img src="assets/company-logos/finike-lithium.png" alt="" loading="lazy" decoding="async"></div>
+            <span>Finike Lithium</span>
+          </div>
+        </div>
+        <div class="employer-ticker-set" aria-hidden="true">
+          <div class="employer-logo-card">
+            <div class="employer-logo-media employer-logo-media--vidyut"><img src="assets/company-logos/vidyut.png" alt="" width="1792" height="1024" loading="lazy" decoding="async"></div>
+            <span>Vidyut Advertising &amp; Marketing</span>
+          </div>
+          <div class="employer-logo-card">
+            <div class="employer-logo-media employer-logo-media--ss"><img src="assets/company-logos/ss-group.png" alt="" width="500" height="500" loading="lazy" decoding="async"></div>
+            <span>SS Group of Company</span>
+          </div>
+          <div class="employer-logo-card">
+            <div class="employer-logo-media employer-logo-media--spinoff"><img src="assets/company-logos/spinoff-technopark.png" alt="" width="1341" height="462" loading="lazy" decoding="async"></div>
+            <span>Spinoff Technopark</span>
+          </div>
+          <div class="employer-logo-card">
+            <div class="employer-logo-media employer-logo-media--finike"><img src="assets/company-logos/finike-lithium.png" alt="" loading="lazy" decoding="async"></div>
+            <span>Finike Lithium</span>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -210,5 +296,6 @@
 </footer>
 
 <script src="script.js"></script>
+<script src="festival-calendar.js"></script>
 </body>
 </html>
