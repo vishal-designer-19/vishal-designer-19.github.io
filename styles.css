@@ -672,10 +672,11 @@ body.page-sliding-out::after { transform: translate3d(0, 0, 0); }
   max-width: 500px;
 }
 .about-copy strong { color: var(--text); }
+.about-copy .language-intro { margin: 1.5rem 0 0; font-size: .75rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: var(--green); }
 .langs {
   display: flex;
   gap: 0.6rem;
-  margin-top: 1.4rem;
+  margin-top: .65rem;
   flex-wrap: wrap;
 }
 .lang-pill {
@@ -883,12 +884,34 @@ body.page-sliding-out::after { transform: translate3d(0, 0, 0); }
   position: relative;
   z-index: 2;
 }
+.timeline::before,
+.timeline::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 25px;
+  width: 2px;
+  border-radius: 2px;
+  pointer-events: none;
+}
+.timeline::before { background: var(--border); }
+.timeline::after { background: linear-gradient(to top, var(--teal), var(--amber) 55%, var(--green)); }
+.timeline.journey-ready::after { transform: scaleY(0); transform-origin: bottom; }
+.timeline.journey-ready.journey-active::after { animation: journey-path-rise 2.15s cubic-bezier(.22,1,.36,1) forwards; }
 .timeline-item {
   display: flex;
   gap: 1.6rem;
   padding: 1.6rem 0;
   border-bottom: 1px solid var(--border);
+  position: relative;
+  z-index: 1;
 }
+.timeline.journey-ready .timeline-item { opacity: 0; transform: translateY(20px); }
+.timeline.journey-ready.journey-active .timeline-item { animation: journey-stop-in .6s cubic-bezier(.16,1,.3,1) forwards; }
+.timeline.journey-ready.journey-active .timeline-item:nth-child(3) { animation-delay: .1s; }
+.timeline.journey-ready.journey-active .timeline-item:nth-child(2) { animation-delay: .8s; }
+.timeline.journey-ready.journey-active .timeline-item:nth-child(1) { animation-delay: 1.5s; }
 .timeline-item:last-child { border-bottom: none; }
 .node {
   width: 52px;
@@ -905,6 +928,14 @@ body.page-sliding-out::after { transform: translate3d(0, 0, 0); }
 .timeline-item:nth-child(1) .node { background: var(--green); color: var(--ink); }
 .timeline-item:nth-child(2) .node { background: var(--amber); color: var(--ink); }
 .timeline-item:nth-child(3) .node { background: var(--teal); color: var(--ink); }
+.timeline-item:first-child .node { box-shadow: 0 0 0 6px color-mix(in srgb, var(--green) 15%, transparent), 0 0 28px color-mix(in srgb, var(--green) 30%, transparent); }
+.journey-current { display: inline-block; margin-left: .45rem; padding: .14rem .5rem; border: 1px solid color-mix(in srgb, var(--green) 55%, transparent); border-radius: 99px; color: var(--green); font-size: .65rem; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; vertical-align: middle; }
+@keyframes journey-path-rise { to { transform: scaleY(1); } }
+@keyframes journey-stop-in { to { opacity: 1; transform: translateY(0); } }
+@media (prefers-reduced-motion: reduce) {
+  .timeline.journey-ready::after,
+  .timeline.journey-ready .timeline-item { transform: none; opacity: 1; animation: none; }
+}
 .timeline-content h3 { font-size: 1.15rem; margin-bottom: 0.2rem; }
 .timeline-content .role-meta {
   color: var(--green);

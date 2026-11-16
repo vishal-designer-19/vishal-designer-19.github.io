@@ -13,6 +13,36 @@ if (themeBtn) {
 
 // --- Staggered slide reveals ---
 const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+const experienceYears = document.getElementById('experienceYears');
+if (experienceYears) {
+  const [baseYear, baseMonth, baseDay] = experienceYears.dataset.baseDate.split('-').map(Number);
+  const baseYears = Number(experienceYears.dataset.baseYears);
+  const updateExperience = () => {
+    const now = new Date();
+    let months = (now.getFullYear() - baseYear) * 12 + now.getMonth() - (baseMonth - 1);
+    if (now.getDate() < baseDay) months -= 1;
+    const years = baseYears + Math.floor(Math.max(0, months) / 6) * 0.5;
+    experienceYears.textContent = `${years} years`;
+  };
+  updateExperience();
+  window.setInterval(updateExperience, 60 * 60 * 1000);
+}
+
+const journeyTimeline = document.querySelector('.timeline');
+if (journeyTimeline && !reducedMotion) {
+  journeyTimeline.classList.add('journey-ready');
+  if ('IntersectionObserver' in window) {
+    const journeyObserver = new IntersectionObserver((entries, observer) => {
+      if (entries[0].isIntersecting) {
+        journeyTimeline.classList.add('journey-active');
+        observer.unobserve(journeyTimeline);
+      }
+    }, { threshold: 0.18 });
+    journeyObserver.observe(journeyTimeline);
+  } else {
+    journeyTimeline.classList.add('journey-active');
+  }
+}
 const slideCards = document.querySelectorAll('.toc-card, .project-card, .showcase-item');
 if (!reducedMotion) {
   slideCards.forEach((card, index) => {
