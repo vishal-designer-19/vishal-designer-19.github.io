@@ -54,7 +54,7 @@ if (!reducedMotion) {
 // --- Active Nav Link Spy (index.html only) ---
 const navLinks = document.querySelectorAll('.nav-links a');
 const sections = document.querySelectorAll('section, footer[id]');
-if (navLinks.length && sections.length) {
+if (navLinks.length && sections.length && /(?:\/|\/index\.html)$/.test(window.location.pathname)) {
   const spy = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
       if (entry.isIntersecting) {

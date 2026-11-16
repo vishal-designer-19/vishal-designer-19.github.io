@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 570" role="img" aria-label="RONDO ROAST pouch front and back artwork with dimensions">
+   <rect width="1000" height="570" fill="#F8F7F3"/>
+   <text x="44" y="34" fill="#303735" font-family="Poppins,Arial,sans-serif" font-size="17" font-weight="800">RONDO ROAST / POUCH ARTWORK + CONCEPT DIMENSIONS</text>
+   <g transform="translate(80 70) scale(1 1.078125)"><rect width="300" height="400" fill="#4A2C22"/>
+  <rect x="18" y="18" width="264" height="364" fill="none" stroke="#FFF0DC" stroke-width="1.5" opacity=".5"/>
+  <text x="150" y="53" text-anchor="middle" fill="#FFF0DC" font-family="Poppins,Arial,sans-serif" font-size="18" font-weight="800" letter-spacing="2">RONDO ROAST</text>
+  <path d="M87 67h126" stroke="#C4854E" stroke-width="4"/>
+  <text x="150" y="105" text-anchor="middle" fill="#FFF0DC" font-family="Poppins,Arial,sans-serif" font-size="32" font-weight="800" letter-spacing="-1">WHOLE BEAN</text>
+  <text x="150" y="141" text-anchor="middle" fill="#FFF0DC" font-family="Poppins,Arial,sans-serif" font-size="32" font-weight="800" letter-spacing="-1">COFFEE</text>
+  <g fill="#C4854E" stroke="#FFF0DC" stroke-width="3"><ellipse cx="111" cy="194" rx="26" ry="37" transform="rotate(-29 111 194)"/><ellipse cx="167" cy="166" rx="27" ry="39" transform="rotate(20 167 166)"/><ellipse cx="206" cy="223" rx="27" ry="39" transform="rotate(-19 206 223)"/><ellipse cx="133" cy="255" rx="25" ry="36" transform="rotate(14 133 255)"/></g><g fill="none" stroke="#FFF0DC" stroke-width="3"><path d="M97 164c19 25 22 46 29 60M179 130c-19 25-23 42-19 69M196 189c14 23 17 47 18 66M132 221c-8 26-7 45 8 66"/></g>
+  <path d="M47 349h206" stroke="#FFF0DC" stroke-width="1.5" opacity=".7"/>
+  <text x="150" y="370" text-anchor="middle" fill="#FFF0DC" font-family="Poppins,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2">250 g / CONCEPT</text></g>
+   <g transform="translate(520 70) scale(1 1.078125)"><rect width="300" height="400" fill="#4A2C22"/>
+  <rect x="18" y="18" width="264" height="364" fill="none" stroke="#FFF0DC" stroke-width="1.5" opacity=".5"/>
+  <text x="33" y="56" fill="#FFF0DC" font-family="Poppins,Arial,sans-serif" font-size="21" font-weight="800" letter-spacing="1">RONDO ROAST</text>
+  <path d="M33 72h234" stroke="#C4854E" stroke-width="5"/>
+  <text x="33" y="117" fill="#FFF0DC" font-family="Poppins,Arial,sans-serif" font-size="18" font-weight="700">MADE TO ENJOY.</text>
+  <text x="33" y="154" fill="#FFF0DC" font-family="Poppins,Arial,sans-serif" font-size="12">A sample packaging concept for</text>
+  <text x="33" y="175" fill="#FFF0DC" font-family="Poppins,Arial,sans-serif" font-size="12">whole bean coffee.</text>
+  <path d="M33 203h234M33 293h234" stroke="#FFF0DC" stroke-width="1.5" opacity=".6"/>
+  <text x="33" y="233" fill="#FFF0DC" font-family="Poppins,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1">PRODUCT INFORMATION</text>
+  <text x="33" y="254" fill="#FFF0DC" font-family="Poppins,Arial,sans-serif" font-size="11">Final ingredients, instructions and</text>
+  <text x="33" y="273" fill="#FFF0DC" font-family="Poppins,Arial,sans-serif" font-size="11">regulatory copy to be supplied.</text>
+  <text x="33" y="325" fill="#FFF0DC" font-family="Poppins,Arial,sans-serif" font-size="11" font-weight="700">CONCEPT ARTWORK</text>
+  <text x="33" y="348" fill="#FFF0DC" font-family="Poppins,Arial,sans-serif" font-size="10">Dimensions: 160 × 230 × 80 mm</text></g>
+   <path d="M80 70h300v431.25H80ZM520 70h300v431.25H520Z" fill="none" stroke="#555" stroke-width="1.5" stroke-dasharray="7 6"/>
+   <path d="M80 91h300M520 91h300M80 465.25h300M520 465.25h300" stroke="#555" stroke-width="1.5" stroke-dasharray="5 5"/>
+   <path d="M80 51h300m-300-7v14m300-14v14M840 70v431.25" stroke="#454545" stroke-width="1.5"/>
+   <text x="230" y="47" text-anchor="middle" fill="#303735" font-family="Poppins,Arial,sans-serif" font-size="12" font-weight="700">160 mm width</text>
+   <text x="870" y="285.625" fill="#303735" font-family="Poppins,Arial,sans-serif" font-size="12" font-weight="700" transform="rotate(90 870 285.625)">230 mm height</text>
+   <text x="500" y="535" text-anchor="middle" fill="#303735" font-family="Poppins,Arial,sans-serif" font-size="12" font-weight="700">Bottom gusset: 80 mm · dashed lines show seal / fold areas</text>
+   <text x="42" y="557" fill="#555" font-family="Poppins,Arial,sans-serif" font-size="10" font-weight="600">PROPORTIONAL PANEL SCHEMATIC · FINAL SEALS, BLEED AND MATERIAL REQUIRE PRINT-VENDOR APPROVAL</text>
+  </svg>

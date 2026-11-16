@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 150" role="img" aria-label="DAYMARK logo">
+ <path fill="#F4EFE5" fill-rule="evenodd" d="M10 21h49c36 0 59 23 59 54s-23 54-59 54H10V21Zm31 29v50h18c17 0 28-9 28-25S76 50 59 50H41Z"/>
+ <path fill="#FF664F" d="M10 100h31v29H10z"/>
+ <text x="142" y="110" fill="#F4EFE5" font-family="Poppins,Arial,sans-serif" font-size="98" font-weight="800" letter-spacing="-7">DAYMARK</text>
+ <circle cx="675" cy="103" r="11" fill="#FF664F"/>
+</svg>

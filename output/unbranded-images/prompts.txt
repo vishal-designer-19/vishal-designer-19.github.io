@@ -1,0 +1,17 @@
+Generated using the built-in image generation tool.
+
+Shared prompt: Recreate each reference as a new polished portrait image preserving its overall composition, palette and subjects. Remove all brand names, wordmarks, logos, manufacturer badges, trademarks, watermarks, signatures and company URLs. Do not invent replacement brands. Keep generic navigation and descriptive copy.
+
+1. 01-cocktail-bar: dark cocktail bar and restaurant website: charcoal background, electric blue accents, wide moody bar hero with cocktails and pendant lights, glassmorphism menu panel, cocktail preparation photo, five menu cards, bartender photograph and footer. Replace garbled text with short readable generic English headings.
+
+2. 02-restaurant: warm orange and ivory restaurant website: dark hero with grilled chicken and pasta, orange call-to-action buttons, light about section with restaurant interior, four dishes cards, reservation strip and dark footer. Remove the restaurant brand and all its repeated appearances, all branded contact details and social logos.
+
+3. 03-burger-app: two side-by-side mobile food ordering app screens: smoky glassmorphism charcoal panels, orange highlights, realistic burgers, home screen with search/categories/offer/product cards and detail screen with large burger/customization/add-to-cart. Keep all devices and UI entirely unbranded.
+
+4. 04-berry-smoothies: tall berry smoothie promotional editorial: midnight teal background, woman in embroidered cream blouse holding smoothie at upper right, three vivid orange/purple/red smoothies with splashes and floating berries, hands and berries on table, three informational berry mix cards below. Remove ALL brand names, emblems, seals, crests, creator credit and bottom web URL. Use brief generic English descriptive copy about berry flavors; no health claims.
+
+5. 05-coffee-desserts: premium coffee and dessert website: espresso brown and cream, large ceramic latte hero right with elegant serif headline left, cream benefits band, four dessert/drink cards, coffee story photo below and service footer. Remove coffee wordmark and tagline, promotional seal, and all logos. Preserve warm editorial aesthetic.
+
+6. 06-luxury-cars: luxury car showroom website in black and gold: dramatic black generic exotic sports car outside modern glass villa at sunset, headline left, four service cards, three car listings, and benefits footer. Remove dealership name, crest and every vehicle manufacturer badge, hood emblem, wheel emblem, branded key fob and trademarked make/model labels. Use generic labels such as Grand Touring Coupe, Executive Sedan, V12 Sports Coupe. Cars must have clean unbadged bodywork; footer uses generic key without emblems.
+
+7. 07-luxury-cars-alternate: second separate variation of luxury car showroom website in black and champagne gold: follow reference layout with large unbadged graphite sports car at modern glass villa at dusk, service cards, three listings and benefits footer. Slightly different photographic framing and clean typography. Remove dealership name, all logos/crests, every manufacturer badge, hood emblem, wheel emblem, branded key fob and make/model labels. Use only generic descriptive car category names. No substitute brand invented.

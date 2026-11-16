@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650" role="img" aria-label="Illustrative modern apartment residences">
+ <defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#9ED0FF"/><stop offset="1" stop-color="#ECF6FF"/></linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#91CAE9"/><stop offset=".55" stop-color="#C7ECFC"/><stop offset="1" stop-color="#5A9FC8"/></linearGradient>
+  <filter id="shadow"><feDropShadow dx="10" dy="13" stdDeviation="12" flood-color="#123f78" flood-opacity=".19"/></filter>
+  <pattern id="windows" width="88" height="83" patternUnits="userSpaceOnUse"><rect x="15" y="10" width="57" height="54" fill="#315B85"/><rect x="18" y="13" width="51" height="48" fill="url(#glass)"/><path d="M44 13v48" stroke="#E8F5FC" stroke-width="3"/><path d="M18 37h51" stroke="#D6ECFA" stroke-width="2"/></pattern>
+ </defs>
+ <rect width="900" height="650" fill="url(#sky)"/>
+ <circle cx="730" cy="105" r="61" fill="#FFDD9D" opacity=".86"/>
+ <path d="M0 475c130-75 250-76 378-32s285 29 522-46v253H0Z" fill="#C5DFE0"/>
+ <path d="M0 516c188-50 289-35 443 8s287 11 457-38v164H0Z" fill="#A9CFCB"/>
+ <g filter="url(#shadow)">
+  <path d="M207 151 620 100v451H207Z" fill="#F2F4F2"/>
+  <path d="M620 100 711 146v405h-91Z" fill="#D5DFE3"/>
+  <path d="M207 151 620 100v43l-413 47Z" fill="#FFF"/>
+  <path d="M240 182h350v327H240Z" fill="url(#windows)"/>
+  <path d="M632 175 690 196v290l-58-11Z" fill="#47779C"/>
+  <path d="M641 183 683 198v41l-42-12Zm0 69 42 13v41l-42-11Zm0 68 42 11v41l-42-9Zm0 69 42 9v41l-42-7Z" fill="url(#glass)"/>
+  <path d="M224 247h382v12H224Zm0 83h382v12H224Zm0 83h382v12H224Zm0 83h382v12H224Z" fill="#F9FAF7"/>
+  <path d="M228 250h374m-374 83h374m-374 83h374m-374 83h374" stroke="#2E5C86" stroke-width="3"/>
+  <path d="M237 259v33m87-33v33m88-33v33m88-33v33m88-33v33M237 342v33m87-33v33m88-33v33m88-33v33m88-33v33M237 425v33m87-33v33m88-33v33m88-33v33m88-33v33" stroke="#DDEBF2" stroke-width="4"/>
+  <path d="M207 509h413v42H207Z" fill="#E1E9E7"/>
+  <rect x="360" y="506" width="110" height="45" fill="#285780"/>
+  <path d="M415 506v45" stroke="#BEE1F1" stroke-width="3"/>
+  <path d="M207 551h504v17H207Z" fill="#C8D6D5"/>
+ </g>
+ <g fill="#2D7D69"><circle cx="99" cy="490" r="61"/><circle cx="146" cy="472" r="47"/><circle cx="776" cy="480" r="54"/><circle cx="823" cy="488" r="61"/></g>
+ <g fill="#4D9B76"><circle cx="75" cy="477" r="41"/><circle cx="152" cy="453" r="39"/><circle cx="806" cy="468" r="48"/></g>
+ <path d="M0 570c168-38 287-25 438 3s301 26 462-9v86H0Z" fill="#79B8A0"/>
+ <path d="M342 568h220l146 82H194Z" fill="#E5E9E3"/>
+ <path d="M0 610c63-14 142-12 207 4M692 618c78-17 150-18 208-11" fill="none" stroke="#E8F5E9" stroke-width="4" opacity=".65"/>
+ <rect x="22" y="23" width="147" height="39" rx="19" fill="#1155DB"/>
+ <text x="43" y="48" fill="#fff" font-family="Poppins,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2">CONCEPT VIEW</text>
+</svg>

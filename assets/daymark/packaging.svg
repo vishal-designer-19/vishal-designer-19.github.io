@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 590" role="img" aria-label="DAYMARK jacket mailer and hangtag concept">
+ <defs><filter id="s" x="-30%" y="-30%" width="170%" height="170%"><feDropShadow dx="12" dy="18" stdDeviation="14" flood-color="#102a36" flood-opacity=".28"/></filter></defs>
+ <rect width="740" height="590" fill="#AFC5D2"/>
+ <circle cx="670" cy="60" r="175" fill="#BCD0DB"/>
+ <path d="M0 505c160-70 242-62 380 18s267 65 360 3v64H0Z" fill="#9BB8C9"/>
+ <g transform="translate(67 45) rotate(-7 280 250)" filter="url(#s)">
+  <rect x="38" y="65" width="495" height="365" rx="17" fill="#F4EFE5" stroke="#E6E1D9" stroke-width="3"/>
+  <path d="M38 82 280 268 533 82" fill="none" stroke="#D5D0C8" stroke-width="3"/>
+  <path d="M38 429 230 271M533 429 336 271" fill="none" stroke="#DFD9D0" stroke-width="3"/>
+  <rect x="78" y="313" width="243" height="81" rx="4" fill="#172C35"/>
+  <path d="M97 334h22c13 0 20 8 20 19s-7 19-20 19H97v-38Zm10 9v20h12c6 0 10-4 10-10s-4-10-10-10h-12Z" fill="#F4EFE5"/>
+  <path d="M97 363h10v9H97z" fill="#FF664F"/>
+  <text x="148" y="364" fill="#F4EFE5" font-family="Poppins,Arial,sans-serif" font-size="26" font-weight="800" letter-spacing="-1.5">DAYMARK</text>
+  <path d="M354 290h128v102H354z" fill="#FF664F"/>
+  <text x="368" y="321" fill="#172C35" font-family="Poppins,Arial,sans-serif" font-size="12" font-weight="800" letter-spacing="2">OUT THERE</text>
+  <text x="368" y="341" fill="#172C35" font-family="Poppins,Arial,sans-serif" font-size="12" font-weight="800" letter-spacing="2">EVERY DAY.</text>
+  <path d="M354 367h128" stroke="#172C35" stroke-width="2"/>
+  <text x="368" y="384" fill="#172C35" font-family="Poppins,Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="1">JACKET / 01</text>
+ </g>
+ <g transform="translate(470 35) rotate(12 90 150)" filter="url(#s)">
+  <path d="M89 0v63" fill="none" stroke="#172C35" stroke-width="3"/>
+  <circle cx="89" cy="72" r="8" fill="#F4EFE5" stroke="#172C35" stroke-width="3"/>
+  <path d="M28 54h122l16 24v236H12V78Z" fill="#172C35"/>
+  <path d="M12 78h154v10H12z" fill="#FF664F"/>
+  <path d="M43 115h28c18 0 29 11 29 29s-11 29-29 29H43v-58Zm15 14v30h13c9 0 15-5 15-15s-6-15-15-15H58Z" fill="#F4EFE5"/>
+  <path d="M43 159h15v14H43z" fill="#FF664F"/>
+  <text x="43" y="211" fill="#F4EFE5" font-family="Poppins,Arial,sans-serif" font-size="24" font-weight="800" letter-spacing="-1">DAYMARK</text>
+  <path d="M43 226h81" stroke="#FF664F" stroke-width="3"/>
+  <text x="43" y="252" fill="#F4EFE5" font-family="Poppins,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2">UTILITY JACKET</text>
+  <text x="43" y="275" fill="#AFC5D2" font-family="Poppins,Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="1">MADE TO MOVE / 01</text>
+ </g>
+ <text x="36" y="555" fill="#172C35" font-family="Poppins,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="4">DAYMARK / RETAIL + UNBOXING CONCEPT</text>
+</svg>

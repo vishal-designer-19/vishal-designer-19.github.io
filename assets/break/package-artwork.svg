@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" role="img" aria-label="Break Italian curriculum package flat artwork">
+ <rect width="1200" height="680" fill="#E5E3DD"/>
+ <rect x="25" y="30" width="510" height="620" fill="#D3D1CB"/>
+ <rect x="535" y="30" width="130" height="620" fill="#B9B8B2"/>
+ <rect x="665" y="30" width="510" height="620" fill="#D3D1CB"/>
+ <path d="M535 30v620M665 30v620" stroke="#8C8C87" stroke-width="2" stroke-dasharray="9 8"/>
+ <path d="M25 30h1150M25 650h1150" stroke="#8C8C87" stroke-width="2"/>
+ <text x="63" y="100" fill="#333633" font-family="Poppins,Arial,sans-serif" font-size="47" font-weight="800" letter-spacing="-4">break.</text>
+ <text x="65" y="176" fill="#5D615C" font-family="Poppins,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="4">LEARN A LITTLE. GO A LONG WAY.</text>
+ <path d="M63 198h429" stroke="#8D9089" stroke-width="2"/>
+ <text x="55" y="345" fill="#333633" font-family="Poppins,Arial,sans-serif" font-size="112" font-weight="800" letter-spacing="-9">ITALIAN</text>
+ <rect x="65" y="369" width="158" height="13" rx="6" fill="#C9D58F"/>
+ <text x="65" y="446" fill="#333633" font-family="Poppins,Arial,sans-serif" font-size="30" font-weight="700">HIGH SCHOOL</text>
+ <text x="65" y="485" fill="#333633" font-family="Poppins,Arial,sans-serif" font-size="30" font-weight="700">CURRICULUM</text>
+ <path d="M64 547h430" stroke="#8D9089" stroke-width="2"/>
+ <text x="65" y="584" fill="#555A54" font-family="Poppins,Arial,sans-serif" font-size="14" font-weight="600">Here for every lesson.</text>
+ <text x="65" y="619" fill="#6A6D66" font-family="Poppins,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2">UNCOATED PAPERBOARD / NO PLASTIC LAMINATION</text>
+ <g transform="translate(640 612) rotate(-90)">
+  <text x="0" y="0" fill="#333633" font-family="Poppins,Arial,sans-serif" font-size="37" font-weight="800" letter-spacing="-2">break.</text>
+  <text x="181" y="0" fill="#555A54" font-family="Poppins,Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="2">ITALIAN / HIGH SCHOOL</text>
+ </g>
+ <rect x="684" y="49" width="472" height="10" fill="#C9D58F"/>
+ <text x="704" y="112" fill="#333633" font-family="Poppins,Arial,sans-serif" font-size="28" font-weight="800">A better way to begin.</text>
+ <path d="M705 132h429" stroke="#8D9089" stroke-width="2"/>
+ <text x="705" y="196" fill="#444943" font-family="Poppins,Arial,sans-serif" font-size="20" font-weight="600">Italian for the high school classroom.</text>
+ <text x="705" y="243" fill="#555A54" font-family="Poppins,Arial,sans-serif" font-size="16" font-weight="500">Clear lessons. Room to explore.</text>
+ <text x="705" y="276" fill="#555A54" font-family="Poppins,Arial,sans-serif" font-size="16" font-weight="500">Support when you need it.</text>
+ <path d="M705 312h429" stroke="#8D9089" stroke-width="2"/>
+ <text x="705" y="362" fill="#333633" font-family="Poppins,Arial,sans-serif" font-size="18" font-weight="700">Questions along the way?</text>
+ <text x="705" y="397" fill="#333633" font-family="Poppins,Arial,sans-serif" font-size="18" font-weight="700">We're here to help.</text>
+ <rect x="705" y="444" width="429" height="107" rx="2" fill="#BDBCB5"/>
+ <text x="729" y="479" fill="#333633" font-family="Poppins,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2">MATERIAL DIRECTION</text>
+ <text x="729" y="511" fill="#444943" font-family="Poppins,Arial,sans-serif" font-size="14" font-weight="500">Uncoated paperboard · water-based ink</text>
+ <text x="729" y="534" fill="#444943" font-family="Poppins,Arial,sans-serif" font-size="14" font-weight="500">Plastic-free finish</text>
+ <text x="705" y="610" fill="#666A64" font-family="Poppins,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2">PACKAGING CONCEPT / SAMPLE PROJECT</text>
+</svg>

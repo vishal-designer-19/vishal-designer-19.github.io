@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 570" role="img" aria-label="KIVO SNACKS pouch front and back artwork with dimensions">
+   <rect width="1000" height="570" fill="#F8F7F3"/>
+   <text x="44" y="34" fill="#303735" font-family="Poppins,Arial,sans-serif" font-size="17" font-weight="800">KIVO SNACKS / POUCH ARTWORK + CONCEPT DIMENSIONS</text>
+   <g transform="translate(80 70) scale(1 1.1029411764705883)"><rect width="300" height="400" fill="#FFF6D7"/>
+  <rect x="18" y="18" width="264" height="364" fill="none" stroke="#1E291D" stroke-width="1.5" opacity=".5"/>
+  <text x="150" y="53" text-anchor="middle" fill="#1E291D" font-family="Poppins,Arial,sans-serif" font-size="18" font-weight="800" letter-spacing="2">KIVO SNACKS</text>
+  <path d="M87 67h126" stroke="#F3BF21" stroke-width="4"/>
+  <text x="150" y="105" text-anchor="middle" fill="#1E291D" font-family="Poppins,Arial,sans-serif" font-size="39" font-weight="800" letter-spacing="-1">PLANTAIN</text>
+  <text x="150" y="141" text-anchor="middle" fill="#1E291D" font-family="Poppins,Arial,sans-serif" font-size="39" font-weight="800" letter-spacing="-1">CRISPS</text>
+  <path d="M25 296c65-28 94-16 137 15s81 30 138-1v32H25Z" fill="#F3BF21"/><g fill="#F7CE55" stroke="#1E291D" stroke-width="3"><ellipse cx="111" cy="201" rx="34" ry="47" transform="rotate(-22 111 201)"/><ellipse cx="183" cy="163" rx="34" ry="47" transform="rotate(25 183 163)"/><ellipse cx="206" cy="253" rx="34" ry="47" transform="rotate(-28 206 253)"/><ellipse cx="135" cy="272" rx="31" ry="42" transform="rotate(37 135 272)"/></g><g fill="none" stroke="#CC9B26" stroke-width="3"><ellipse cx="111" cy="201" rx="17" ry="27" transform="rotate(-22 111 201)"/><ellipse cx="183" cy="163" rx="17" ry="27" transform="rotate(25 183 163)"/><ellipse cx="206" cy="253" rx="17" ry="27" transform="rotate(-28 206 253)"/></g>
+  <path d="M47 349h206" stroke="#1E291D" stroke-width="1.5" opacity=".7"/>
+  <text x="150" y="370" text-anchor="middle" fill="#1E291D" font-family="Poppins,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2">180 g / CONCEPT</text></g>
+   <g transform="translate(520 70) scale(1 1.1029411764705883)"><rect width="300" height="400" fill="#FFF6D7"/>
+  <rect x="18" y="18" width="264" height="364" fill="none" stroke="#1E291D" stroke-width="1.5" opacity=".5"/>
+  <text x="33" y="56" fill="#1E291D" font-family="Poppins,Arial,sans-serif" font-size="21" font-weight="800" letter-spacing="1">KIVO SNACKS</text>
+  <path d="M33 72h234" stroke="#F3BF21" stroke-width="5"/>
+  <text x="33" y="117" fill="#1E291D" font-family="Poppins,Arial,sans-serif" font-size="18" font-weight="700">MADE TO ENJOY.</text>
+  <text x="33" y="154" fill="#1E291D" font-family="Poppins,Arial,sans-serif" font-size="12">A sample packaging concept for</text>
+  <text x="33" y="175" fill="#1E291D" font-family="Poppins,Arial,sans-serif" font-size="12">plantain crisps.</text>
+  <path d="M33 203h234M33 293h234" stroke="#1E291D" stroke-width="1.5" opacity=".6"/>
+  <text x="33" y="233" fill="#1E291D" font-family="Poppins,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1">PRODUCT INFORMATION</text>
+  <text x="33" y="254" fill="#1E291D" font-family="Poppins,Arial,sans-serif" font-size="11">Final ingredients, instructions and</text>
+  <text x="33" y="273" fill="#1E291D" font-family="Poppins,Arial,sans-serif" font-size="11">regulatory copy to be supplied.</text>
+  <text x="33" y="325" fill="#1E291D" font-family="Poppins,Arial,sans-serif" font-size="11" font-weight="700">CONCEPT ARTWORK</text>
+  <text x="33" y="348" fill="#1E291D" font-family="Poppins,Arial,sans-serif" font-size="10">Dimensions: 170 × 250 × 70 mm</text></g>
+   <path d="M80 70h300v441.1764705882353H80ZM520 70h300v441.1764705882353H520Z" fill="none" stroke="#555" stroke-width="1.5" stroke-dasharray="7 6"/>
+   <path d="M80 91h300M520 91h300M80 475.1764705882353h300M520 475.1764705882353h300" stroke="#555" stroke-width="1.5" stroke-dasharray="5 5"/>
+   <path d="M80 51h300m-300-7v14m300-14v14M840 70v441.1764705882353" stroke="#454545" stroke-width="1.5"/>
+   <text x="230" y="47" text-anchor="middle" fill="#303735" font-family="Poppins,Arial,sans-serif" font-size="12" font-weight="700">170 mm width</text>
+   <text x="870" y="290.5882352941177" fill="#303735" font-family="Poppins,Arial,sans-serif" font-size="12" font-weight="700" transform="rotate(90 870 290.5882352941177)">250 mm height</text>
+   <text x="500" y="535" text-anchor="middle" fill="#303735" font-family="Poppins,Arial,sans-serif" font-size="12" font-weight="700">Bottom gusset: 70 mm · dashed lines show seal / fold areas</text>
+   <text x="42" y="557" fill="#555" font-family="Poppins,Arial,sans-serif" font-size="10" font-weight="600">PROPORTIONAL PANEL SCHEMATIC · FINAL SEALS, BLEED AND MATERIAL REQUIRE PRINT-VENDOR APPROVAL</text>
+  </svg>

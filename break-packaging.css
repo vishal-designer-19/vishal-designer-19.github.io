@@ -1,0 +1,32 @@
+.packaging-jump { display:flex;flex-wrap:wrap;gap:.6rem;margin-top:1.6rem; }
+.packaging-jump a { border:1px solid var(--border);border-radius:99px;padding:.55rem .9rem;font-size:.78rem;font-weight:700;color:var(--text-dim); }
+.packaging-jump a:hover { color:var(--green);border-color:var(--green); }
+.eg-project-label { width:min(1280px,88%);margin:0 auto 1.5rem;scroll-margin-top:8rem; }
+.eg-project-label span,.break-heading>span { display:block;color:#78adff;text-transform:uppercase;letter-spacing:.17em;font-weight:800;font-size:.75rem; }
+.eg-project-label h2 { font-size:clamp(2rem,4vw,3.8rem);line-height:1.1;margin:.45rem 0 0;letter-spacing:-.05em; }
+.eg-project-label p { color:var(--text-dim);font-size:.9rem; }
+.break-project { width:min(1280px,88%);margin:10rem auto 0;padding-top:2rem;border-top:1px solid var(--border);scroll-margin-top:7rem; }
+.break-heading { max-width:710px;margin-bottom:2.5rem; }
+.break-heading>span { color:#C9D58F; }
+.break-heading h2 { font:800 clamp(3rem,6vw,6.5rem)/1 'Poppins',sans-serif;letter-spacing:-.08em;margin:.5rem 0 1rem; }
+.break-heading h2 span { color:#C9D58F; }
+.break-heading p { color:var(--text-dim);max-width:650px;font-size:1.02rem; }
+.break-mockup,.break-artwork { overflow:hidden;border:1px solid var(--border);border-radius:20px;background:var(--surface-card); }
+.break-mockup img { display:block;width:100%;height:auto;background:#E6E4DE; }
+.break-mockup figcaption,.break-artwork figcaption { display:flex;justify-content:space-between;gap:1rem;padding:1.1rem 1.5rem;font-size:.86rem; }
+.break-mockup figcaption span,.break-artwork figcaption span { color:var(--text-dim);text-align:right; }
+.break-details { display:grid;grid-template-columns:1fr 1fr;gap:3rem;padding:3rem 0; }
+.break-details h3 { font:700 clamp(1.4rem,2vw,2rem) 'Poppins',sans-serif;letter-spacing:-.035em;margin-bottom:.45rem; }
+.break-details p { color:var(--text-dim);max-width:540px;font-size:.95rem; }
+.break-artwork img { display:block;width:100%;height:auto;background:#E6E4DE; }
+.break-note { color:var(--text-dim);font-size:.8rem;margin-top:1.3rem; }
+.break-note a { color:var(--green);font-weight:700;text-decoration:underline;text-underline-offset:3px; }
+@media(max-width:760px) {
+  .break-project { margin-top:6rem; }
+  .break-details { grid-template-columns:1fr;gap:1.8rem; }
+}
+@media(max-width:560px) {
+  .break-project,.eg-project-label { width:90%; }
+  .break-mockup figcaption,.break-artwork figcaption { display:block; }
+  .break-mockup figcaption span,.break-artwork figcaption span { display:block;text-align:left;margin-top:.2rem; }
+}

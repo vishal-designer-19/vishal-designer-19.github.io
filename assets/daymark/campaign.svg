@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 740" role="img" aria-label="DAYMARK Own the Outside jacket campaign">
+ <defs><linearGradient id="j" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2C4650"/><stop offset="1" stop-color="#0F252D"/></linearGradient><filter id="s"><feDropShadow dx="12" dy="18" stdDeviation="10" flood-color="#52221d" flood-opacity=".27"/></filter></defs>
+ <rect width="600" height="740" fill="#FF664F"/>
+ <path d="M0 513c93-54 189-46 279 8s202 73 321 13v206H0Z" fill="#EB5744"/>
+ <path d="M0 620c118-35 230-13 316 47s185 62 284 19v54H0Z" fill="#DA4C3D" opacity=".5"/>
+ <text x="36" y="79" fill="#172C35" font-family="Poppins,Arial,sans-serif" font-size="83" font-weight="800" letter-spacing="-5">OWN THE</text>
+ <text x="36" y="160" fill="#172C35" font-family="Poppins,Arial,sans-serif" font-size="83" font-weight="800" letter-spacing="-5">OUTSIDE.</text>
+ <g transform="translate(49 195) rotate(-8 285 240)" filter="url(#s)">
+  <path d="m142 51-64 24-66 216 81 28 57-127 12-87Z" fill="#182F39" stroke="#42616A" stroke-width="2"/>
+  <path d="m428 51 64 24 66 216-81 28-57-127-12-87Z" fill="#182F39" stroke="#42616A" stroke-width="2"/>
+  <path d="m142 51 65-29 78 28 78-28 65 29-18 148 17 249H143l17-249Z" fill="url(#j)" stroke="#547179" stroke-width="3"/>
+  <path d="m142 51 65-29 78 28-26 76-107-14Z" fill="#F4EFE5"/>
+  <path d="m428 51-65-29-78 28 26 76 107-14Z" fill="#DEDCD5"/>
+  <path d="m248 0 37 50-35 44-38-72Z" fill="#0D2028"/>
+  <path d="m322 0-37 50 35 44 38-72Z" fill="#203D46"/>
+  <path d="M285 50v398" stroke="#0A1B22" stroke-width="15"/>
+  <path d="M285 55v390" stroke="#9BAFAE" stroke-width="2" stroke-dasharray="4 6"/>
+  <path d="M278 172h14v36h-14z" fill="#FF664F"/>
+  <path d="M170 259h79v78h-79zM321 259h79v78h-79z" fill="#203A44" stroke="#728B8B" stroke-width="2"/>
+  <path d="M170 259h79v20h-79zM321 259h79v20h-79z" fill="#152E38"/>
+  <path d="M196 289h25M347 289h25" stroke="#FF664F" stroke-width="4"/>
+  <path d="M12 291 0 331l82 31 16-46ZM558 291l12 40-82 31-16-46ZM143 412l-4 36h292l-4-36Z" fill="#0C2028"/>
+  <path d="M175 183h51v22h-51z" fill="#F4EFE5"/>
+  <text x="180" y="198" fill="#172C35" font-family="Poppins,Arial,sans-serif" font-size="8" font-weight="800">DAYMARK</text>
+ </g>
+ <rect x="0" y="650" width="600" height="90" fill="#172C35"/>
+ <text x="35" y="695" fill="#F4EFE5" font-family="Poppins,Arial,sans-serif" font-size="43" font-weight="800" letter-spacing="-2">DAYMARK.</text>
+ <text x="38" y="721" fill="#AFC5D2" font-family="Poppins,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="3">THE EVERYDAY UTILITY JACKET</text>
+</svg>

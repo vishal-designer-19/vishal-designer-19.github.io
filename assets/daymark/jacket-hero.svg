@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 620" role="img" aria-label="DAYMARK utility jacket illustration">
+ <defs>
+  <linearGradient id="body" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2C4750"/><stop offset=".55" stop-color="#172C35"/><stop offset="1" stop-color="#0D2028"/></linearGradient>
+  <linearGradient id="sleeve" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#334D55"/><stop offset="1" stop-color="#132A33"/></linearGradient>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="15" dy="24" stdDeviation="18" flood-color="#051218" flood-opacity=".55"/></filter>
+ </defs>
+ <g filter="url(#shadow)">
+  <path d="m184 129-69 28-80 276 107 34 66-164 17-102Z" fill="url(#sleeve)" stroke="#526b6f" stroke-width="2"/>
+  <path d="m456 129 69 28 80 276-107 34-66-164-17-102Z" fill="url(#sleeve)" stroke="#526b6f" stroke-width="2"/>
+  <path d="m184 129 69-34 67 28 67-28 69 34-18 183 25 228H177l25-228Z" fill="url(#body)" stroke="#587178" stroke-width="3"/>
+  <path d="m184 129 69-34 67 28-30 99-101-15Z" fill="#F4EFE5"/>
+  <path d="m456 129-69-34-67 28 30 99 101-15Z" fill="#E3DFD5"/>
+  <path d="m253 95 67 28-30 99-101-15-5-78Z" fill="none" stroke="#CAD3CF" stroke-width="2" opacity=".65"/>
+  <path d="m387 95-67 28 30 99 101-15 5-78Z" fill="none" stroke="#CAD3CF" stroke-width="2" opacity=".65"/>
+  <path d="m274 79 46 44-32 65-45-82Z" fill="#101F27" stroke="#60747a" stroke-width="2"/>
+  <path d="m366 79-46 44 32 65 45-82Z" fill="#203640" stroke="#60747a" stroke-width="2"/>
+  <path d="m274 79 46 44 46-44-18-24h-56Z" fill="#0D2028" stroke="#526b6f" stroke-width="2"/>
+  <path d="M320 123v417" stroke="#0A1A22" stroke-width="18"/>
+  <path d="M320 123v417" stroke="#869b99" stroke-width="3" stroke-dasharray="4 7"/>
+  <path d="M313 205h14v36h-14z" fill="#FF664F" rx="3"/>
+  <path d="M306 241h28v17h-28z" fill="#C5D3D2" rx="3"/>
+  <path d="m177 486-5 54h296l-5-54Z" fill="#101F27"/>
+  <path d="M37 419 25 470l110 34 15-52Z" fill="#101F27"/>
+  <path d="m603 419 12 51-110 34-15-52Z" fill="#101F27"/>
+  <path d="m72 320 98 31M568 320l-98 31" stroke="#62777b" stroke-width="2"/>
+  <path d="m204 313-17 140M436 313l17 140" stroke="#647a7e" stroke-width="2" stroke-dasharray="7 5"/>
+  <path d="M207 325h85v94h-85zM348 325h85v94h-85z" fill="#203943" stroke="#78908c" stroke-width="2"/>
+  <path d="M207 325h85v25h-85zM348 325h85v25h-85z" fill="#142A33" stroke="#78908c" stroke-width="2"/>
+  <path d="M235 359h29M376 359h29" stroke="#FF664F" stroke-width="4"/>
+  <path d="M215 270h54v24h-54z" fill="#F4EFE5"/>
+  <text x="221" y="286" fill="#172C35" font-family="Poppins,Arial,sans-serif" font-size="9" font-weight="800" letter-spacing=".6">DAYMARK</text>
+  <path d="M178 484h285" stroke="#61777a" stroke-width="2"/>
+  <path d="m115 157 36 49M525 157l-36 49" stroke="#849693" stroke-width="2"/>
+ </g>
+ <path d="M32 564h576" stroke="#AFC5D2" stroke-width="2" opacity=".35"/>
+ <text x="32" y="591" fill="#AFC5D2" font-family="Poppins,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="4">THE EVERYDAY UTILITY JACKET / 01</text>
+</svg>
